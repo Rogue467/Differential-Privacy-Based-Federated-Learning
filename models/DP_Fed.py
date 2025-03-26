@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Python version: 3.6
-
+#differential privacy combined with federated learning
 import copy
 import torch
 from torch import nn
